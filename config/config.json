@@ -1,0 +1,14 @@
+{
+  "port": "3008",
+  "mongodb": {
+    "host": "127.0.0.1",
+    "port": "27017",
+    "database": "futurebridge",
+    "username": "",
+    "password": ""
+  },
+  "settings": {
+    "apiUrl": "127.0.0.1:3008/",
+    "uiUrl": "http://127.0.0.1:5173/"    }
+  
+}
